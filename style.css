@@ -4,7 +4,9 @@
     font-family: 'Roboto', Helvetica, Arial, sans-serif;
     --text-color: aliceblue;
     --color-2: #0C4A6E;
-    --color-3: #FAFAF9;
+    --color-3: #f8fafc;
+    --dark-white:#d6d3d1;
+    --color-4: #38bdf8;
     --accent-color: #292524;
 }
 
